@@ -1,6 +1,6 @@
 import random
 
-words = ["sang", "hacher", "cyclique", "entre", "stupefaction","evoquer", "sinistre", "catastrophe", "creatif", "baron", "consultant", "fournisseur"]
+words = ["sang", "hacher", "cyclique", "entre", "stupefaction","evoquer", "sinistre", "catastrophe", "creatif", "baron", "consultant", "fournisseur", "pieces" "fidele" "dupliquer" "promettre", "ambition", "aveuglant", " poisson", "ordinateur" "portatif", "football", "zebre"]
 run = True
 number = random.randrange(0, words.__len__())
 response = list(words[number])
